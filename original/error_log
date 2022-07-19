@@ -1,0 +1,6 @@
+[02-Sep-2021 06:04:58 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'elabasy4_wp876'@'localhost' (using password: YES) in /home2/elabasy4/public_html/check_charset.php on line 44
+[02-Sep-2021 06:04:58 America/Chicago] PHP Warning:  mysqli_get_server_info() expects parameter 1 to be mysqli, bool given in /home2/elabasy4/public_html/check_charset.php on line 44
+[02-Sep-2021 06:04:58 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'elabasy4_wp876'@'localhost' (using password: YES) in /home2/elabasy4/public_html/check_charset.php on line 44
+[02-Sep-2021 06:04:58 America/Chicago] PHP Warning:  mysqli_get_server_info() expects parameter 1 to be mysqli, bool given in /home2/elabasy4/public_html/check_charset.php on line 44
+[03-Sep-2021 02:36:28 UTC] PHP Warning:  Creating default object from empty value in /home2/elabasy4/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 56
+[03-Sep-2021 02:36:29 UTC] PHP Warning:  Creating default object from empty value in /home2/elabasy4/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 56

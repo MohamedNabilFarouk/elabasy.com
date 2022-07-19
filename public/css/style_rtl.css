@@ -1,0 +1,86 @@
+.slick-prev {
+    right:95% !important;
+}
+
+.slick_dir {
+    flex-direction: row-reverse;
+}
+
+.nav_header {
+    flex-direction: row-reverse !important;
+}
+
+.tm-header-info li i {
+    margin-left: 8px;
+}
+
+.tm-header-currency button img, .tm-header-currency li img, .tm-header-language button img, .tm-header-language li img, .tm-header-links button img, .tm-header-links li img {
+    margin-left: 10px;
+}
+
+#checkout_form {
+    text-align: right;
+}
+.tm-product-price {
+   
+    text-align: right}
+    
+    .tm-product-price {
+    margin-top: 10px;
+    color: #f2ba59;
+    font-weight: 600;
+    margin-top: 5px;
+    display: block;
+    text-align: right}
+    
+    .single-widget .widget-title::after {
+    content: "";
+    position: absolute;
+    right: 0;}
+    
+    .single-widget .widget-title::after {
+    content: "";
+    position: absolute;
+    right: 0;}
+    .tm-prodetails-content>p {
+    margin-top: 20px;
+    padding: 20px 0;
+    border-top: 1px solid #ebebeb;
+    border-bottom: 1px solid #ebebeb;
+    text-align: right;
+}
+.widgets .single-widget {
+    margin-top: 50px;
+    text-align: right;
+}
+.tm-prodetails-title {
+    margin-top: -5px;
+    margin-bottom: 5px;
+    font-family: "Open Sans", sans-serif;
+    color: #000;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: right;
+}
+
+/* whatsapp icon chat */
+
+.float{
+position:fixed;
+width:60px;
+height:60px;
+bottom:40px;
+right:40px;
+background-color:#25d366;
+color:#FFF;
+border-radius:50px;
+text-align:center;
+font-size:30px;
+box-shadow: 2px 2px 3px #999;
+z-index:100;
+}
+
+.my-float{
+margin-top:16px;
+}
+/* end whtsapp icon */

@@ -1,0 +1,19 @@
+.slick-prev {
+    right:95% !important;
+}
+
+.slick_dir {
+    flex-direction: row-reverse;
+}
+
+.nav_header {
+    flex-direction: row-reverse !important;
+}
+
+.tm-header-info li i {
+    margin-left: 8px;
+}
+
+.tm-header-currency button img, .tm-header-currency li img, .tm-header-language button img, .tm-header-language li img, .tm-header-links button img, .tm-header-links li img {
+    margin-left: 10px;
+}
